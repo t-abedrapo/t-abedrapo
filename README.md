@@ -1,4 +1,4 @@
-### Laboratorio 1: Presentación Personal
+# Laboratorio 1: Presentación Personal
 
 Tomás Abedrapo
 
