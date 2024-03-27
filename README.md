@@ -5,12 +5,16 @@ Soy Tomás Abedrapo, actualmente finalizando la carrera de ingeniería civíl el
 
 ## Contacto
 
-Puedes contactarme por correo mediante: tomas.abedrapo@gmail.com
+Puedes contactarme por correo mediante:
+
+[![Contacto](https://img.shields.io/badge/Contacto-Enviar_correo-EA4335?style=for-the-badge&logo=gmail)](mailto:tomas.abedrapo@gmail.com)
+
 
 ## Intereses
 
 [![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 
+🤔
 
 -Estoy enfocado en todo lo que es inteligencia computacional, machine learning, etc.
 
@@ -20,22 +24,5 @@ Puedes contactarme por correo mediante: tomas.abedrapo@gmail.com
 
 -Megusta mucho la música. Mi grupo favorito es The Cure.
 
-<p align="center">
-  <img src="https://wifflegif.com/gifs/645266-non-fuzzy-this-time-the-cure-gif" width="75">
-</p>
+![cure](https://wifflegif.com/gifs/645266-non-fuzzy-this-time-the-cure-gif)
 
-
-<!--
-**t-abedrapo/t-abedrapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
