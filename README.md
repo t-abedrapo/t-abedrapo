@@ -22,7 +22,7 @@ Puedes contactarme por correo mediante:
 
 -Me gusta construir circuitos de amplificación analógica.
 
--Megusta mucho la música. Mi grupo favorito es The Cure.
+-Me gusta mucho la música. Mi grupo favorito es The Cure.
 
-![cure](https://wifflegif.com/gifs/645266-non-fuzzy-this-time-the-cure-gif)
+![cure](figs/cure.gif)
 
